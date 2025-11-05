@@ -24,7 +24,7 @@ export default class Sidebar extends Component {
   >
     <div className="user-logo">
       <div className="img" style={{ backgroundImage: "url(images/zp.jpg)" }}></div>
-      <h3>Catriona Henderson</h3>
+      <h3>CHEN Qiannan</h3>
     </div>
   </div>
 
